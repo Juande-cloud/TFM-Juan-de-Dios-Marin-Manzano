@@ -1,2 +1,2 @@
-# TFM-Juan-de-Dios-Marin-Manzano
+# Transcriptomic Analysis
 This repository contains the code used for the transcriptomic analysis. The raw data set used in this study consisted of transcriptomic profiles of four human osteosarcoma samples (U2OS experiment) and four breast cancer samples (MDA-MB-231 experiment) to study the role of CtsL and AEP, respectively, in the regulation of cancer gene expression. Each group of samples includes those transduced with lentiviral vectors for silencing the expression of each of the proteases (shCtsL and shAEP samples), as well as the corresponding negative controls (EV and DMSO samples).
